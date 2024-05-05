@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "pipelines_all",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1, "Join_Count": 1, "TARGET_FID": 0, "ID": 1, "SCHEME_NAM": null, "TYPE": "RPL", "DIAMETER": "200", "MATERIAL": "uPVC", "PRES_RATE": 0, "SOURCE": "LCE as built drawings", "NAME": "Onyaanya", "REGION": "Oshikoto", "Shape_Leng": 905.90968664399998 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 1819105.899823606712744, -2055668.789121222216636 ], [ 1819800.961846802616492, -2055012.550102967070416 ] ] ] } },
 { "type": "Feature", "properties": { "OBJECTID": 2, "Join_Count": 1, "TARGET_FID": 1, "ID": 2, "SCHEME_NAM": null, "TYPE": "RPL", "DIAMETER": "160", "MATERIAL": "uPVC", "PRES_RATE": 0, "SOURCE": "LCE as built drawings", "NAME": "Onyaanya", "REGION": "Oshikoto", "Shape_Leng": 1290.98255756 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 1819800.961846802616492, -2055012.550102967070416 ], [ 1820792.801984834484756, -2054078.875233315629885 ] ] ] } },
